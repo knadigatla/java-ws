@@ -1,0 +1,12 @@
+1,ab13c,fremont,CA,36
+11,ab2c,fremont0,CA,10
+12,a16c,fremont1,CA,38
+13,a9bc,fremont0,CA,36
+14,a8bc,fremont0,CA,39
+15,a7bc,fremont1,CA,36
+16,a6bc,fremont2,CA,33
+17,75bc,fremont3,CA,18
+18,a4bc,fremont4,CA,76
+19,a3bc,fremont3,CA,26
+10,a2bc,fremont4,CA,56
+21,a1bc,fremont5,CA,16
