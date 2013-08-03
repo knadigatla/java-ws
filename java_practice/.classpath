@@ -9,5 +9,8 @@
 	<classpathentry kind="lib" path="lib/hive-service-0.10.0-cdh4.3.0.jar"/>
 	<classpathentry kind="lib" path="lib/libfb303-0.9.0.jar"/>
 	<classpathentry kind="lib" path="lib/log4j-1.2.16.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kiran/Downloads/avro-1.7.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kiran/Desktop/jackson-core-asl-1.7.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kiran/.m2/repository/org/codehaus/jackson/jackson-mapper-asl/1.8.8/jackson-mapper-asl-1.8.8.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

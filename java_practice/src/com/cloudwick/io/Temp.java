@@ -22,8 +22,7 @@ public class Temp {
 		
 		fos.flush();
 		fos.close();
-		
-		
+				
 		FileInputStream fis = new FileInputStream("kiran.txt");
 		byte b;
 		while(fis.available()>0) {
