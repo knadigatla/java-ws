@@ -4,4 +4,23 @@
   <artifactId>cassandra-hector</artifactId>
   <version>1.0</version>
   <name>cassandra-hector</name>
+  <dependencies>
+  	<dependency>
+  		<groupId>me.prettyprint</groupId>
+  		<artifactId>hector</artifactId>
+  		<version>1.0-3</version>
+  		<classifier>tests</classifier>
+  	</dependency>
+  	<dependency>
+  		<groupId>commons-codec</groupId>
+  		<artifactId>commons-codec</artifactId>
+  		<version>1.6</version>
+  	</dependency>
+  	
+  	<dependency>
+  		<groupId>me.prettyprint</groupId>
+  		<artifactId>hector-object-mapper</artifactId>
+  		<version>3.0-03</version>
+  	</dependency>
+  </dependencies>
 </project>
